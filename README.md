@@ -1,6 +1,6 @@
 Overview:
 
-Face and hand landmarks detection projects leverage computer vision techniques to identify and track key points on human faces and hands in images or videos. Using Python, two popular libraries for such tasks are Mediapipe and OpenCV.
+Face and hand landmarks detection projects leverage computer vision techniques to identify and track key points on human faces and hands in images or videos. Using Python, two popular libraries for such tasks are Mediapipe and OpenCV..
 
 Mediapipe:
 
